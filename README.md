@@ -1,2 +1,2 @@
 # PandaAcademy
-Panda Academy Devops Core content
+Panda Academy Devops Core course content
